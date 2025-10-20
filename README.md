@@ -1,4 +1,4 @@
-# Backend — Stage 0
+# HNG backend stage 0
 ## Endpoint GET /me 
 ## Setup 
 1. git clone <repo> 
