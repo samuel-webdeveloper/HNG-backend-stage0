@@ -10,9 +10,7 @@ It returns basic information about the developer including their email, current 
 
 
 **Tech Stack**
-Node.js – JavaScript runtime
-Express.js – Web framework for Node.js
-Railway – Hosting and deployment
+Node.js/Express.js
 
 **Setup Instructions (Local Development)**
 Follow these steps to run the project locally on your machine:
